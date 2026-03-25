@@ -23,5 +23,9 @@
 
 - 2026年
   - [資料](ipad-playground/comsemi2026_document.pdf)
-  - サンプルアプリ
-   - 音声アプリ
+  - サンプルアプリ (Playgroundの各アプリのフォルダをzipで固めてあります)
+    - [1_音声アプリ](ipad-playground/1_speak.zip)
+    - [2_繰り返し](ipad-playground/2_for.zip)
+    - [3_もし](ipad-playground/3_if.zip)
+    - [4_図形の移動](ipad-playground/4_move_fig.zip)
+    - [5_速度で移動](ipad-playground/5_move_add_speed.zip)
